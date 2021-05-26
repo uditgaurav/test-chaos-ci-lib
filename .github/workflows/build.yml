@@ -6,7 +6,7 @@ on:
     types: [opened, synchronize, reopened]    
 
 env:
-  REPONAME: litmuschaos
+  REPONAME: uditgaurav
   IMAGENAME: chaos-ci-lib
   IMAGETAG: ci
 
